@@ -8,5 +8,12 @@ namespace TDD_Coca_Cola
 {
     class NumberManager
     {
+        public void Start()
+        {
+            for (int i = 1; i <= 100; i++)
+            {
+                Console.WriteLine();
+            }
+        }
     }
 }

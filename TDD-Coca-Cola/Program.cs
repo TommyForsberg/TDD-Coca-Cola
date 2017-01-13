@@ -10,6 +10,7 @@ namespace TDD_Coca_Cola
     {
         static void Main(string[] args)
         {
+            var manager = new NumberManager();
         }
     }
 }
