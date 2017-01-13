@@ -12,7 +12,7 @@ namespace TDD_Coca_Cola
         {
             for (int i = 1; i <= 100; i++)
             {
-                Console.WriteLine();
+                Console.WriteLine(i);
             }
         }
     }
