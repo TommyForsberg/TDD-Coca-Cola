@@ -6,14 +6,19 @@ using System.Threading.Tasks;
 
 namespace TDD_Coca_Cola
 {
-    class NumberManager
+    public class NumberManager
     {
         public void Start()
         {
             for (int i = 1; i <= 100; i++)
             {
-                Console.WriteLine();
+                Console.WriteLine(i);
             }
+        }
+
+        public string CocaColaGenerator(int v)
+        {
+            throw new NotImplementedException();
         }
     }
 }
