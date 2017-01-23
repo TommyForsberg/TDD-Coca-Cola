@@ -1,0 +1,9 @@
+C:\Users\jimmy\Documents\YHSUST16\Testning av programvara\Projektarbete\TDD-Coca-Cola\TDD-Coca-Cola.Tester\bin\Debug\TDD-Coca-Cola.Tester.dll
+C:\Users\jimmy\Documents\YHSUST16\Testning av programvara\Projektarbete\TDD-Coca-Cola\TDD-Coca-Cola.Tester\bin\Debug\TDD-Coca-Cola.Tester.pdb
+C:\Users\jimmy\Documents\YHSUST16\Testning av programvara\Projektarbete\TDD-Coca-Cola\TDD-Coca-Cola.Tester\bin\Debug\nunit.framework.dll
+C:\Users\jimmy\Documents\YHSUST16\Testning av programvara\Projektarbete\TDD-Coca-Cola\TDD-Coca-Cola.Tester\bin\Debug\TDD-Coca-Cola.exe
+C:\Users\jimmy\Documents\YHSUST16\Testning av programvara\Projektarbete\TDD-Coca-Cola\TDD-Coca-Cola.Tester\bin\Debug\TDD-Coca-Cola.pdb
+C:\Users\jimmy\Documents\YHSUST16\Testning av programvara\Projektarbete\TDD-Coca-Cola\TDD-Coca-Cola.Tester\bin\Debug\nunit.framework.xml
+C:\Users\jimmy\Documents\YHSUST16\Testning av programvara\Projektarbete\TDD-Coca-Cola\TDD-Coca-Cola.Tester\obj\Debug\TDD-Coca-Cola.Tester.csprojResolveAssemblyReference.cache
+C:\Users\jimmy\Documents\YHSUST16\Testning av programvara\Projektarbete\TDD-Coca-Cola\TDD-Coca-Cola.Tester\obj\Debug\TDD-Coca-Cola.Tester.dll
+C:\Users\jimmy\Documents\YHSUST16\Testning av programvara\Projektarbete\TDD-Coca-Cola\TDD-Coca-Cola.Tester\obj\Debug\TDD-Coca-Cola.Tester.pdb
