@@ -8,21 +8,25 @@ namespace TDD_Coca_Cola
 {
     public class NumberManager
     {
-        public void Start()
+        public void Start() //Written by Tommy, updated by Jimmy
         {
             for (int i = 1; i <= 100; i++)
             {
-                Console.WriteLine(i);
+                Console.WriteLine(CocaColaGenerator(i));
             }
         }
 
-        public string CocaColaGenerator(int input)
+        public string CocaColaGenerator(int input) //Written by Jimmy, updated by Tommy
         {
-            if (input % 3 == 0)
+            if(input % 3 ==0 && input % 5 == 0)
+            {
+                return "Coca Cola";
+            }
+            else if (input % 3 == 0)
             {
                 return "Coca";
             }
-            if (input % 5 == 0)
+            else if (input % 5 == 0)
             {
                 return "Cola";
             }

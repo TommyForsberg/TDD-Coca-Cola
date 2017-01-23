@@ -12,6 +12,7 @@ namespace TDD_Coca_Cola
         {
             var manager = new NumberManager();
             manager.Start();
+            Console.ReadLine();
         }
     }
 }
