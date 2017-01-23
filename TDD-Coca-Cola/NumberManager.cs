@@ -16,9 +16,20 @@ namespace TDD_Coca_Cola
             }
         }
 
-        public string CocaColaGenerator(int v)
+        public string CocaColaGenerator(int input)
         {
-            throw new NotImplementedException();
+            if (input % 3 == 0)
+            {
+                return "Coca";
+            }
+            if (input % 5 == 0)
+            {
+                return "Cola";
+            }
+            else
+            {
+                return input.ToString();
+            }
         }
     }
 }
