@@ -9,3 +9,4 @@ C:\Users\Tommy\Documents\Visual Studio 2015\Projects\TDD-Coca-Cola\TDD-Coca-Cola
 C:\Users\Tommy\Documents\Visual Studio 2015\Projects\TDD-Coca-Cola\TDD-Coca-Cola\obj\Debug\TDD-Coca-Cola.csprojResolveAssemblyReference.cache
 C:\Users\Tommy\Documents\Visual Studio 2015\Projects\TDD-Coca-Cola\TDD-Coca-Cola\obj\Debug\TDD-Coca-Cola.exe
 C:\Users\Tommy\Documents\Visual Studio 2015\Projects\TDD-Coca-Cola\TDD-Coca-Cola\obj\Debug\TDD-Coca-Cola.pdb
+C:\Users\jimmy\Documents\YHSUST16\Testning av programvara\Projektarbete\TDD-Coca-Cola\TDD-Coca-Cola\obj\Debug\TDD-Coca-Cola.csprojResolveAssemblyReference.cache
